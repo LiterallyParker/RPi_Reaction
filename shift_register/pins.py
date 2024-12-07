@@ -1,0 +1,10 @@
+PINS = {
+    'DS':16,
+    'SHCP':21,
+    'STCP':20,
+    'BLUE_LED':12,
+    'BUZZER':25
+}
+
+BUZZER_FREQ = 500
+BUZZER_DURATION = 0.1
